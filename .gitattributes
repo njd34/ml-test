@@ -1,0 +1,3 @@
+# Specify ipynb files as binary so they are not modified
+*.ipynb binary
+
